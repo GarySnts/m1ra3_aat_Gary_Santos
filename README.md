@@ -9,6 +9,6 @@
 |2024-007441|Gary Santos|
 
 ## descripcion del proyecto
-El proyecto cuenta con 4 páginas: Inicio,
-empleado, sueldo base e indemnizacion.
-las tecnologias usadas son html, bootstrap, css, JS y JQuery.
+> El proyecto cuenta con 4 páginas: Inicio,
+ empleado, sueldo base e indemnizacion.
+ las tecnologias usadas son html, bootstrap, css, JS y JQuery.
